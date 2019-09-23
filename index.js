@@ -18,7 +18,7 @@ app.use(cors());
 app.get('/', (req, res) => {
 	res.status(200).json({
 	status: 'success',
-	message: 'hi gogo',
+	message: 'hi gog',
 	});
 });
 
